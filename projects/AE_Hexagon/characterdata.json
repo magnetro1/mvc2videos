@@ -1,0 +1,451 @@
+[
+  null,
+  {
+    "name": "Akuma",
+    "position": [
+      475,
+      720
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Amingo",
+    "position": [
+      480,
+      700
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Anakaris",
+    "position": [
+      510,
+      650
+    ],
+    "flipX": true
+  },
+  {
+    "name": "B.B. Hood",
+    "position": [
+      500,
+      590
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Blackheart",
+    "position": [
+      475,
+      700
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Cable",
+    "position": [
+      555,
+      780
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Cammy",
+    "position": [
+      590,
+      580
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Captain America",
+    "position": [
+      475,
+      745
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Captain Commando",
+    "position": [
+      400,
+      800
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Charlie",
+    "position": [
+      420,
+      750
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Chun-Li",
+    "position": [
+      540,
+      725
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Colossus",
+    "position": [
+      460,
+      600
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Cyclops",
+    "position": [
+      450,
+      660
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Dan",
+    "position": [
+      500,
+      700
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Dhalsim",
+    "position": [
+      280,
+      650
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Doctor Doom",
+    "position": [
+      525,
+      680
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Felicia",
+    "position": [
+      525,
+      620
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Gambit",
+    "position": [
+      480,
+      700
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Guile",
+    "position": [
+      410,
+      650
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Hayato",
+    "position": [
+      520,
+      520
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Hulk",
+    "position": [
+      400,
+      720
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Iceman",
+    "position": [
+      450,
+      525
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Iron Man",
+    "position": [
+      500,
+      525
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Jill",
+    "position": [
+      500,
+      600
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Jin",
+    "position": [
+      420,
+      600
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Juggernaut",
+    "position": [
+      525,
+      625
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Ken",
+    "position": [
+      450,
+      700
+    ],
+    "flipX": true
+  },
+  {
+    "name": "M Bison",
+    "position": [
+      420,
+      700
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Magneto",
+    "position": [
+      450,
+      700
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Marrow",
+    "position": [
+      400,
+      590
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Megaman",
+    "position": [
+      500,
+      600
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Morrigan",
+    "position": [
+      550,
+      725
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Omega Red",
+    "position": [
+      420,
+      750
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Psylocke",
+    "position": [
+      450,
+      700
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Rogue",
+    "position": [
+      450,
+      720
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Roll",
+    "position": [
+      525,
+      650
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Ruby Heart",
+    "position": [
+      500,
+      725
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Ryu",
+    "position": [
+      400,
+      550
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Sabretooth",
+    "position": [
+      500,
+      700
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Sakura",
+    "position": [
+      400,
+      550
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Sentinel",
+    "position": [
+      420,
+      750
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Servbot",
+    "position": [
+      485,
+      525
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Shuma-Gorath",
+    "position": [
+      420,
+      600
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Silver Samurai",
+    "position": [
+      500,
+      650
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Sonson",
+    "position": [
+      475,
+      700
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Spider-Man",
+    "position": [
+      500,
+      575
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Spiral",
+    "position": [
+      500,
+      700
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Storm",
+    "position": [
+      540,
+      680
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Strider Hiryu",
+    "position": [
+      525,
+      600
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Thanos",
+    "position": [
+      460,
+      600
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Tron Bonne",
+    "position": [
+      420,
+      600
+    ],
+    "flipX": true
+  },
+  {
+    "name": "Venom",
+    "position": [
+      400,
+      720
+    ],
+    "flipX": false
+  },
+  {
+    "name": "War Machine",
+    "position": [
+      425,
+      720
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Wolverine",
+    "position": [
+      455,
+      625
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Wolverine-B",
+    "position": [
+      500,
+      650
+    ],
+    "flipX": false
+  },
+  {
+    "name": "Zangief",
+    "position": [
+      550,
+      610
+    ],
+    "flipX": true
+  }
+]
