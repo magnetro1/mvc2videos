@@ -1,4 +1,4 @@
-// deno-lint(no-var) :gun:
+// deno-lint-ignore-file no-var
 
 (function () {
   // Resolve file next to this script
