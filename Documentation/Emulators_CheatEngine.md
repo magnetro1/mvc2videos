@@ -23,6 +23,7 @@
 ### Record a Movie/Replay
 - PCSX2 Main Window: `Movie` > `Record`.
 - Once the emulator starts, check if state is zero using `F2` and `Shift+F2`.
+
   ![alt text](support/pcsx2_01.png)
 
 ### Cheat Engine Instructions
