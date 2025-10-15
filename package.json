@@ -1,15 +1,5 @@
 {
-  "name": "a.js",
-  "main": "a.js",
-  "version": "0.0.0",
-  "type": "module",
-  "description": "MVC2 Project Notes",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/magnetro1/mvc2videos.git"
-  },
-  "keywords": [ ],
+  "keywords": [],
   "author": "Magnetro",
-  "license": "ISC",
   "homepage": "https://github.com/magnetro1/mvc2videos"
 }
